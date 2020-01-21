@@ -1,0 +1,13 @@
+C:\Users\michel.villafan\source\repos\UPS_Project\UPS_Project\bin\Debug\UPS_Project.exe.config
+C:\Users\michel.villafan\source\repos\UPS_Project\UPS_Project\bin\Debug\UPS_Project.exe
+C:\Users\michel.villafan\source\repos\UPS_Project\UPS_Project\bin\Debug\UPS_Project.pdb
+C:\Users\michel.villafan\source\repos\UPS_Project\UPS_Project\obj\Debug\UPS_Project.exe
+C:\Users\michel.villafan\source\repos\UPS_Project\UPS_Project\obj\Debug\UPS_Project.pdb
+C:\Users\michel.villafan\source\repos\UPS_Project\UPS_Project\obj\Debug\UPS_Project.csprojAssemblyReference.cache
+D:\Downloads\UPS_Project\UPS_Project\UPS_Project\bin\Debug\UPS_Project.exe.config
+D:\Downloads\UPS_Project\UPS_Project\UPS_Project\bin\Debug\UPS_Project.exe
+D:\Downloads\UPS_Project\UPS_Project\UPS_Project\bin\Debug\UPS_Project.pdb
+D:\Downloads\UPS_Project\UPS_Project\UPS_Project\obj\Debug\UPS_Project.csprojAssemblyReference.cache
+D:\Downloads\UPS_Project\UPS_Project\UPS_Project\obj\Debug\UPS_Project.csproj.CoreCompileInputs.cache
+D:\Downloads\UPS_Project\UPS_Project\UPS_Project\obj\Debug\UPS_Project.exe
+D:\Downloads\UPS_Project\UPS_Project\UPS_Project\obj\Debug\UPS_Project.pdb

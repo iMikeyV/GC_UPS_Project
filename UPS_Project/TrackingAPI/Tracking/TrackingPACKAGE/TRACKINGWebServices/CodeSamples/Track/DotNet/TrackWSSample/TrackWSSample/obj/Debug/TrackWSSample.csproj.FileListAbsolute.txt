@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\UPS Project\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\CodeSamples\Track\DotNet\TrackWSSample\TrackWSSample\bin\Debug\TrackWSSample.exe.config
+C:\Users\Mikey\Desktop\UPS Project\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\CodeSamples\Track\DotNet\TrackWSSample\TrackWSSample\bin\Debug\TrackWSSample.exe
+C:\Users\Mikey\Desktop\UPS Project\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\CodeSamples\Track\DotNet\TrackWSSample\TrackWSSample\bin\Debug\TrackWSSample.pdb
+C:\Users\Mikey\Desktop\UPS Project\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\CodeSamples\Track\DotNet\TrackWSSample\TrackWSSample\obj\Debug\TrackWSSample.csprojAssemblyReference.cache
+C:\Users\Mikey\Desktop\UPS Project\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\CodeSamples\Track\DotNet\TrackWSSample\TrackWSSample\obj\Debug\TrackWSSample.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\UPS Project\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\CodeSamples\Track\DotNet\TrackWSSample\TrackWSSample\obj\Debug\TrackWSSample.exe
+C:\Users\Mikey\Desktop\UPS Project\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\CodeSamples\Track\DotNet\TrackWSSample\TrackWSSample\obj\Debug\TrackWSSample.pdb

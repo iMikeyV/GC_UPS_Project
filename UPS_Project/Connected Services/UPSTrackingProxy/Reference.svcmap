@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="026d0337-37ac-4686-9136-915aa3a8f8b2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="H:\MichelV\UPS API\TrackingAPI\Tracking\TrackingPACKAGE\TRACKINGWebServices\SCHEMAS-WSDLs\Track.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TrackWebServiceSchema.xsd" MetadataType="Schema" ID="a606ad6a-e958-4c29-a4df-275354ebe169" SourceId="1" SourceUrl="file:///H:/MichelV/UPS API/TrackingAPI/Tracking/TrackingPACKAGE/TRACKINGWebServices/SCHEMAS-WSDLs/TrackWebServiceSchema.xsd" />
+    <MetadataFile FileName="Track.wsdl" MetadataType="Wsdl" ID="a580cfb0-44b9-4f8a-a33e-c4c2527d43cf" SourceId="1" SourceUrl="file:///H:/MichelV/UPS API/TrackingAPI/Tracking/TrackingPACKAGE/TRACKINGWebServices/SCHEMAS-WSDLs/Track.wsdl" />
+    <MetadataFile FileName="Error1.xsd" MetadataType="Schema" ID="bb5f537a-2a85-44fb-8caf-1a708949a5b2" SourceId="1" SourceUrl="file:///H:/MichelV/UPS API/TrackingAPI/Tracking/TrackingPACKAGE/TRACKINGWebServices/SCHEMAS-WSDLs/Error1.1.xsd" />
+    <MetadataFile FileName="common.xsd" MetadataType="Schema" ID="c268ad9c-bcb2-4897-ac21-8ab1e6d1f16e" SourceId="1" SourceUrl="file:///H:/MichelV/UPS API/TrackingAPI/Tracking/TrackingPACKAGE/TRACKINGWebServices/SCHEMAS-WSDLs/common.xsd" />
+    <MetadataFile FileName="UPSSecurity.xsd" MetadataType="Schema" ID="6fbb2c47-13b9-4abb-ace3-37d3068c7282" SourceId="1" SourceUrl="file:///H:/MichelV/UPS API/TrackingAPI/Tracking/TrackingPACKAGE/TRACKINGWebServices/SCHEMAS-WSDLs/UPSSecurity.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
