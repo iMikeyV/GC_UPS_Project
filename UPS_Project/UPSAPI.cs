@@ -22,9 +22,9 @@ namespace UPS_Project
                 //create username token
                 UPSSecurityUsernameToken upssUsrNameToken = new UPSSecurityUsernameToken();
                 //this is my UPS userid
-                upssUsrNameToken.Username = "imikey300";
+                upssUsrNameToken.Username = "**UPS ACCOUNT HERE**";
                 //this is my UPS password
-                upssUsrNameToken.Password = "iMikey104230!@#321";
+                upssUsrNameToken.Password = "**PADDWORD HERE***";
 
                 UPSSecurityServiceAccessToken upssSvcAccessToken =
                 new UPSSecurityServiceAccessToken();
@@ -128,9 +128,9 @@ namespace UPS_Project
                 //create username token
                 UPSSecurityUsernameToken upssUsrNameToken = new UPSSecurityUsernameToken();
                 //this is my UPS userid
-                upssUsrNameToken.Username = "imikey300";
+                upssUsrNameToken.Username = "**UPS ACCOUNT HERE**";
                 //this is my UPS password
-                upssUsrNameToken.Password = "iMikey104230!@#321";
+                upssUsrNameToken.Password = "**PADDWORD HERE***";
 
                 UPSSecurityServiceAccessToken upssSvcAccessToken =
                 new UPSSecurityServiceAccessToken();
