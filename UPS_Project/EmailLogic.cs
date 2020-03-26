@@ -16,7 +16,7 @@ namespace UPS_Project
             SmtpClient client = new SmtpClient("smtp.gmail.com", 587); //Settings for gmail
             client.UseDefaultCredentials = false; //required by gmail smtp
             client.EnableSsl = true; //required by gmail smtp
-            client.Credentials = new System.Net.NetworkCredential(adminEmail, "5151helpDesk"); //hardcoded password
+            client.Credentials = new System.Net.NetworkCredential(adminEmail, "**PASSWORD HERE**"); //hardcoded password
 
             //Basics of en email
             MailAddress fromMailAddress = new MailAddress(adminEmail); //admin username
