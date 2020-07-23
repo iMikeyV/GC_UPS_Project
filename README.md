@@ -82,7 +82,7 @@ An updated "CurrentDepots.txt" same as the one in input
 
 
 ### Specifications and Rules:  
-
+  
 0. “NTLM Authentication failure” usually means that UPS' servers are down for maintenance or you have internet problems - Try again in 5-10 minutes
 
 1.” Failure due to client data” most likely due to a tracking number that has no information available yet, not even in the UPS servers. (this is why I added an 8 hour buffer to the latest CSV file)
