@@ -1,5 +1,5 @@
 # GC_UPS_Project
- UPS API delivery notification
+ UPS API delivery notification for Golden Corral HelpDesk
 
 
 ### Introduction.  
