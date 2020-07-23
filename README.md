@@ -55,7 +55,7 @@ Last modified “.csv” file that is at least 8 hours old in M:\Depot Spreadshe
 ”TodayCSV.txt” in H:\UPS Project\UPS_Project\bin\Release\   (simple txt file with one word)
 
 Example CSV file from POS department:
-![Alt text](https://ibb.co/sQsB3tv)
+![Alt text](https://i.ibb.co/3WSJhky/CSV.png)
 
 
 Example CurrentDepots.txt
