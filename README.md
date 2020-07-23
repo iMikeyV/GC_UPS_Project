@@ -21,10 +21,7 @@ They manually input data from the spreadsheet into a Heatcall, then individually
 Using the UPS API this program will keep a running list of “Depots” and notify the HelpDesk whenever an item has been delivered.
 
 
-
-
-
-                    # How:  
+   # How:  
                     
                     -Daily email spreadsheet is now saved as a CSV file, the program reads data from CSV file and if there is a UPS tracking number present it creates a
                      “Depot” object.
