@@ -4,7 +4,8 @@
 
 ### Introduction.  
 
-This guide will detail all of the features and requirements of the UPS Project, an application that will notify the help desk every time a depot has been delivered
+This guide will detail all of the features and requirements of the UPS Project, an application that will notify the help desk every time a depot has been delivered.
+
 All of the source code has been commented to be fully understood.
 
 
