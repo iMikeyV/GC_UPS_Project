@@ -24,8 +24,10 @@ Using the UPS API this program will keep a running list of “Depots” and noti
 
    ### How:  
    -Daily email spreadsheet is now saved as a CSV file, the program reads data from CSV file and if there is a UPS tracking number present it creates a
-    “Depot” object.
-   -The program keeps a running list of all Depots and receives direct tracking status from the UPS servers
+    “Depot” object.  
+    
+   -The program keeps a running list of all Depots and receives direct tracking status from the UPS servers  
+   
    -Once a “Depot.Status” changes to “Delivered”, it removes it from the running list and sends an email notification to the Helpdesk
 
             
