@@ -54,11 +54,11 @@ Last modified “.csv” file that is at least 8 hours old in M:\Depot Spreadshe
 ”CurrentDepots.txt” in H:\UPS Project\UPS_Project\bin\Release\
 ”TodayCSV.txt” in H:\UPS Project\UPS_Project\bin\Release\   (simple txt file with one word)
 
-   Example CSV file from POS department:
+ Example CSV file from POS department:
 ![Alt text](https://i.ibb.co/3WSJhky/CSV.png)
 
+Example CurrentDepots.txt:  
 
-   Example CurrentDepots.txt
 ![Alt text](https://api.media.atlassian.com/file/ef43679d-19a1-4263-b729-a609310f1c70/image?mode=full-fit&client=406ab4e6-57b8-4dc5-af1e-1b1693335348&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI0MDZhYjRlNi01N2I4LTRkYzUtYWYxZS0xYjE2OTMzMzUzNDgiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOmVmNDM2NzlkLTE5YTEtNDI2My1iNzI5LWE2MDkzMTBmMWM3MCI6WyJyZWFkIl19LCJleHAiOjE1OTU1NDYwMzMsIm5iZiI6MTU5NTU0MjY3M30.Sc05Y6m1AIIqJ4-zRQEbsVqu6o1_hDv2zBAIa7Je4xg)
 
 
