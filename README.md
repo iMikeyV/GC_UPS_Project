@@ -70,12 +70,13 @@ Example CurrentDepots.txt:
 Log file: “Log_MMDDYYY_HHMMSS.txt” in H:\UPS Project\UPS_Project\bin\Debug\Log
 Email to “michel.villafan” and openticket@goldencorral.net
 An updated "CurrentDepots.txt" same as the one in input
+ 
+Example LogFile output:  
 
-   Example LogFile output:
-![Alt text](https://api.media.atlassian.com/file/ba87b003-6f86-47f7-b2f7-e7912ef8fe3c/image?mode=full-fit&client=406ab4e6-57b8-4dc5-af1e-1b1693335348&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI0MDZhYjRlNi01N2I4LTRkYzUtYWYxZS0xYjE2OTMzMzUzNDgiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOmJhODdiMDAzLTZmODYtNDdmNy1iMmY3LWU3OTEyZWY4ZmUzYyI6WyJyZWFkIl19LCJleHAiOjE1OTU1NDYwOTgsIm5iZiI6MTU5NTU0MjczOH0.uQgELjtmMYlymhPnjNIMaUAMacrLm0JTnoPSHB15EpI)
+![Alt text](https://api.media.atlassian.com/file/ba87b003-6f86-47f7-b2f7-e7912ef8fe3c/image?mode=full-fit&client=406ab4e6-57b8-4dc5-af1e-1b1693335348&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI0MDZhYjRlNi01N2I4LTRkYzUtYWYxZS0xYjE2OTMzMzUzNDgiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOmJhODdiMDAzLTZmODYtNDdmNy1iMmY3LWU3OTEyZWY4ZmUzYyI6WyJyZWFkIl19LCJleHAiOjE1OTU1NDYwOTgsIm5iZiI6MTU5NTU0MjczOH0.uQgELjtmMYlymhPnjNIMaUAMacrLm0JTnoPSHB15EpI)  
 
+Example Email output:  
 
-   Example Email output:
 ![Alt text](https://api.media.atlassian.com/file/3f88d668-a6d4-442f-9897-6c48d0bcf823/image?mode=full-fit&client=406ab4e6-57b8-4dc5-af1e-1b1693335348&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI0MDZhYjRlNi01N2I4LTRkYzUtYWYxZS0xYjE2OTMzMzUzNDgiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOjNmODhkNjY4LWE2ZDQtNDQyZi05ODk3LTZjNDhkMGJjZjgyMyI6WyJyZWFkIl19LCJleHAiOjE1OTU1NDYxMTUsIm5iZiI6MTU5NTU0Mjc1NX0.C2uyEGxSYFshTyDhapYD2B0BXl9y4J0xN2rWhag3lTE)
 
 
