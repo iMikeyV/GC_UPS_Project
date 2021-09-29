@@ -19,12 +19,12 @@ They manually input data from the spreadsheet into a Heatcall, then individually
 
 ### Solution:  
 
-Using the UPS API this program will keep a running list of “Depots” and notify the HelpDesk whenever an item has been delivered.
+Using the UPS API this program will keep a running list of "Depots" and notify the HelpDesk whenever an item has been delivered.
 
 
    ### How:  
-   -Daily email spreadsheet is now saved as a CSV file, the program reads data from CSV file and if there is a UPS tracking number present it creates a
-    “Depot” object.  
+   -Daily email spreadsheet is now saved as a CSV file. The program reads data from CSV file, and if there is a UPS tracking number present, it creates a
+    "Depot" object.  
     
    -The program keeps a running list of all Depots and receives direct tracking status from the UPS servers  
    
@@ -88,10 +88,10 @@ Example Email output:
 
 ### Specifications and Rules:  
   
-“NTLM Authentication failure” usually means that UPS' servers are down for maintenance or you have internet problems - Try again in 5-10 minutes
+“NTLM Authentication failure” usually means that UPS' servers are down for maintenance or you have internet problems - Try again in 5-10 minutes.
 
-"Failure due to client data” most likely due to a tracking number that has no information available yet, not even in the UPS servers. (this is why I added an 8 hour buffer to the latest CSV file)
-    Could also be a human error (typo in POS depot file)
+"Failure due to client data” is most likely due to a tracking number that has no information available yet, not even in the UPS servers. (this is why I added an 8-hour buffer to the latest CSV file)
+    it could also be a human error (typo in POS depot file)
 
 
 ### Instruction:  
